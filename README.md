@@ -1,11 +1,12 @@
-Atlas Labs HR Analytics Dashboard (Power BI)
-Overview
+# Atlas Labs HR Analytics Dashboard (Power BI)
+
+## Overview
 
 This project is a Human Resources analytics case study completed in Microsoft Power BI using a fictitious company, Atlas Labs. The objective was to analyze workforce data to uncover insights on employee demographics, performance, and attrition, and present findings through an interactive dashboard.
 
 The project demonstrates end-to-end Power BI skills including data modeling, exploratory data analysis (EDA), DAX calculations, and dashboard design.
 
---- Business Objective
+### Business Objective
 
 The analysis was designed to help HR stakeholders understand:
 
@@ -16,7 +17,7 @@ Insights to support employee retention strategies
 
 The final output supports data-driven HR decision-making.
 
---- Dataset
+### Dataset
 
 The dataset represents HR information for a fictional organization and includes:
 
@@ -25,7 +26,7 @@ Employment details (hire date, tenure, job role)
 Performance metrics
 Attrition status and related attributes
 
---- Tools & Technologies
+### Tools & Technologies
 
 Microsoft Power BI
 DAX (Data Analysis Expressions)
@@ -33,7 +34,7 @@ Data Modeling
 Exploratory Data Analysis (EDA)
 Data Visualization
 
---- Project Workflow
+### Project Workflow
 1. Data Modeling & EDA
 
 The dataset was imported into Power BI and structured using relationships between tables. Initial analysis focused on understanding workforce composition, departmental distribution, and key HR trends.
@@ -46,13 +47,13 @@ DAX measures and visuals were used to analyze employee demographics, job roles, 
 
 The final phase focused on employee attrition, exploring turnover rates across departments, roles, and employee segments. Key factors influencing attrition, such as tenure and workload patterns, were also analyzed.
 
---- Key Insights
+###  Key Insights
 Attrition varies significantly across departments and roles
 Certain employee groups show higher turnover risk
 Performance and workload patterns may influence retention
 Demographic factors provide additional context for attrition trends
 
---- Skills Demonstrated
+### Skills Demonstrated
 Power BI dashboard development
 Data modeling and relationships
 DAX calculations
